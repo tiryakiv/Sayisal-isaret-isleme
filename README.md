@@ -2,20 +2,20 @@
 
 ## Haftalık ders programı akışı ve konu başlıkları
 
-1	Giriş, Ayrık-zamanlı işaret ve sistemler		
-2	Doğrusal ve zamanla-değişmez sistemlerin özellikleri		
-3	Doğrusal, sabit-katsayılı fark denklemleri ile tanımlanan ayrık zamanlı sistemler		
-4	Ayrık-zamanlı işaret ve sistemlerin Fourier analizi		
-5	Ayrık-zamanlı Fourier dönüşümü (DTFT)		
-6	Ayrık Fourier dönüşümü (DFT)		
-7	Hızlı Fourier dönüşümü (FFT)		
-8	Sürekli zaman işaretlerinin ayrık-zamanlı işlenmesi		
-9	Örneklemenin frekans bölgesi gösterimi ve pratik sınırlamalar		
-10	İşaret ve sistemlerin z-dönüşümü ile analizi		
-11	Ters z dönüşümü ve uygulamaları		
-12	Frekans uzayında doğrusal ve zamanla değişmeyen sistemlerin analizi		
-13	Hep geçiren ve minimum faz sistemleri		
-14	Sayısal filtre tasarım teknikleri
+* 1	Giriş, Ayrık-zamanlı işaret ve sistemler		
+* 2	Doğrusal ve zamanla-değişmez sistemlerin özellikleri		
+* 3	Doğrusal, sabit-katsayılı fark denklemleri ile tanımlanan ayrık zamanlı sistemler		
+* 4	Ayrık-zamanlı işaret ve sistemlerin Fourier analizi		
+* 5	Ayrık-zamanlı Fourier dönüşümü (DTFT)		
+* 6	Ayrık Fourier dönüşümü (DFT)		
+* 7	Hızlı Fourier dönüşümü (FFT)		
+* 8	Sürekli zaman işaretlerinin ayrık-zamanlı işlenmesi		
+* 9	Örneklemenin frekans bölgesi gösterimi ve pratik sınırlamalar		
+* 10	İşaret ve sistemlerin z-dönüşümü ile analizi		
+* 11	Ters z dönüşümü ve uygulamaları		
+* 12	Frekans uzayında doğrusal ve zamanla değişmeyen sistemlerin analizi		
+* 13	Hep geçiren ve minimum faz sistemleri		
+* 14	Sayısal filtre tasarım teknikleri
 
 
 ## Türkçe kaynaklar listesi
