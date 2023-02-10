@@ -14,3 +14,6 @@ Kitap: Oppenheim Signals and Systems https://eee.guc.edu.eg/Courses/Communicatio
 UC Berkeley EE123 Course
 https://www.youtube.com/watch?v=n_dVX-CEhUE&list=PLSFazQ8nHIuMbuMpAxZQLkwV7TyXv5x7U
 
+IEEE Signal Processing Society
+https://www.youtube.com/watch?v=mexN6d8QF9o
+
