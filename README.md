@@ -1,21 +1,21 @@
 # Siirt Üniversitesi Fen Bilimleri Enstitüsü Elektrik-Elektronik Mühendisliği Anabilim Dalı - Sayısal işaret işleme dersi sayfası
 
-## Haftalık ders programı akışı ve konu başlıkları
+## Haftalık ders programı akışı ve konu başlıkları. (İngilizce karşılığı parantez içinde verildi.)
 
-* 1	Giriş, Ayrık-zamanlı işaret ve sistemler		
-* 2	Doğrusal ve zamanla-değişmez sistemlerin özellikleri		
-* 3	Doğrusal, sabit-katsayılı fark denklemleri ile tanımlanan ayrık zamanlı sistemler		
-* 4	Ayrık-zamanlı işaret ve sistemlerin Fourier analizi		
-* 5	Ayrık-zamanlı Fourier dönüşümü (DTFT)		
-* 6	Ayrık Fourier dönüşümü (DFT)		
-* 7	Hızlı Fourier dönüşümü (FFT)		
-* 8	Sürekli zaman işaretlerinin ayrık-zamanlı işlenmesi		
-* 9	Örneklemenin frekans bölgesi gösterimi ve pratik sınırlamalar		
-* 10	İşaret ve sistemlerin z-dönüşümü ile analizi		
-* 11	Ters z dönüşümü ve uygulamaları		
-* 12	Frekans uzayında doğrusal ve zamanla değişmeyen sistemlerin analizi		
-* 13	Hep geçiren ve minimum faz sistemleri		
-* 14	Sayısal filtre tasarım teknikleri
+* 1	Giriş, Ayrık-zamanlı işaret ve sistemler	(Discrete-time signals and systems)	
+* 2	Doğrusal ve zamanla-değişmez sistemlerin özellikleri	(Linear and time-invariant systems (LTI))	
+* 3	Doğrusal, sabit-katsayılı fark denklemleri ile tanımlanan ayrık zamanlı sistemler		 (Discret time systems defined by linear difference equations)
+* 4	Ayrık-zamanlı işaret ve sistemlerin Fourier analizi		(Fourier analysis of discrete time signals and systems)
+* 5	Ayrık-zamanlı Fourier dönüşümü (DTFT)		(Discret time Fourier transform)
+* 6	Ayrık Fourier dönüşümü (DFT)		 (Discret Fourier transform)
+* 7	Hızlı Fourier dönüşümü (FFT)		(Fast Fourier transform)
+* 8	Sürekli zaman işaretlerinin ayrık-zamanlı işlenmesi		 (Discrete time processing of continuous time systems)
+* 9	Örneklemenin frekans bölgesi gösterimi ve pratik sınırlamalar		(Frequency analysis of sampling and practical limitations)
+* 10	İşaret ve sistemlerin z-dönüşümü ile analizi		(Analysis of signals and systems via Z-transform)
+* 11	Ters z dönüşümü ve uygulamaları		(Inverse Z-transform and its applications)
+* 12	Frekans uzayında doğrusal ve zamanla değişmeyen sistemlerin analizi		(Analysis of LTI systems in frequency domain)
+* 13	Hep geçiren ve minimum faz sistemleri		(All-pass and minimum phase systems)
+* 14	Sayısal filtre tasarım teknikleri  (Digital filter design fundamentals)
 
 
 ## Türkçe kaynaklar listesi
